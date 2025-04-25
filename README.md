@@ -94,7 +94,7 @@ Credit/debit card fraud tends to target lower-income clients, but varies across 
 
 Looks to be women
 
-# DASHBOARD
+# DASHBOARD SAMPLE
 
 ![dashboard_overview](https://github.com/user-attachments/assets/f24d8879-3b55-4a4b-a284-fbbee0b865e1)
 
